@@ -1,0 +1,35 @@
+.footer {
+  position: absolute;
+  height: 50px;
+  width: 100%;
+  bottom: 0;
+  clear: both;
+}
+
+.push {
+  height: 50px;
+}
+
+.container {
+  position: relative;
+  min-height: 100vh;
+  height: auto !important;
+  height: 100%;
+  flex: 1;
+}
+
+.center {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.line-limit-length {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: 400px;
+  display: inline-block;
+  // height: 18.4px;
+  margin-bottom: -5px;
+}

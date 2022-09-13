@@ -1,0 +1,15 @@
+<div>
+    {% if site.showTags and page.tag %}
+    <p>
+        <strong>Tags:</strong>
+        {% for item in page.tag %}
+        {{ item }}
+        {% endfor %}
+    </p>
+    {% endif %}
+    {% if page.beforeToc %}
+    <p>
+        <i>{{-page.beforeToc-}}</i>
+    </p>
+    {% endif %}
+</div>

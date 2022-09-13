@@ -1,0 +1,41 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: info
+    entries:
+      - title: github repo
+        url: https://github.com/SirMegaMU/sim-css
+
+  - title: all posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See All Posts...
+      show_more_url: collect
+
+  - title: posts by category
+    post_list:
+      category: example2
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: archive
+
+  - title: all tags
+    url: alltags
+
+  - title: rss
+    url: feed.xml
+  
+  - title: Nav
+    entries:
+      - title: More Info
+        entries:
+          - title: Contact
+            url: contact
+          - title: About
+            url: about
+
+  - title: PRO TIP
+    entries:
+      - title: to edit this menu, edit _data/menu.yml file

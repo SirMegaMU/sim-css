@@ -1,1 +1,31 @@
+title: Sim-CSS
+description: A Jekyll Theme base on no-style-please
+
+author: MegaMU
+email: sirmegamu@outlook.com
+url: ""
+baseurl: ""
+favicon: "assets/img/logo.png"
+footer: Copyright © Sim-CSS 2022 Theme by MegaMU
+
 theme: sim-css
+
+theme_config:
+  appearance: "auto"
+  back_home_text: "..."
+  date_format: "%Y-%m-%d"
+  show_description: true
+
+markdown: kramdown
+highlighter: rouge
+mathjax: true
+
+showTags: true
+
+sass:
+  style: compressed
+
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
