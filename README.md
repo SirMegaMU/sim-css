@@ -13,6 +13,8 @@ See the [Original Repository](https://github.com/riggraz/no-style-please)
 - A footer
 - Show '...' if the title is too long
 
+![Example](https://raw.githubusercontent.com/SirMegaMU/sim-css/main/assets/img/example.png)
+
 ## Installation
 
 Add this line to your Jekyll site's `Gemfile`:

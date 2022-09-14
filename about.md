@@ -16,4 +16,4 @@ See the [Original Repository](https://github.com/riggraz/no-style-please)
 - A footer
 - Show '...' if the title is too long
 
-![Example](https://github.com/SirMegaMU/sim-css/assets/img/example.png)
+![Example](https://raw.githubusercontent.com/SirMegaMU/sim-css/main/assets/img/example.png)
