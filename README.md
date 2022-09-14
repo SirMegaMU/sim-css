@@ -2,7 +2,7 @@
 
 A Jekyll Theme base on no-style-please
 
-See the [Original Repository](https://github.com/riggraz/no-style-please)
+See the [Original Theme Repository](https://github.com/riggraz/no-style-please)
 
 ## What's New
 
