@@ -3,8 +3,13 @@
     <p>
         <strong>Tags:</strong>
         {% for item in page.tag %}
-        {{ item }}
+            {{ item }}
         {% endfor %}
+
+        {% if site.showCategory and page.category %}
+        <strong>Category:</strong>
+        {{ page.category }}
+        {% endif %}
     </p>
     {% endif %}
     {% if page.beforeToc %}

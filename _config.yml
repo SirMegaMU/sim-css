@@ -21,7 +21,7 @@ highlighter: rouge
 mathjax: true
 
 showTags: true
-
+showCategory: true
 sass:
   style: compressed
 

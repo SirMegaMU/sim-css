@@ -15,3 +15,5 @@ See the [Original Repository](https://github.com/riggraz/no-style-please)
 - Show All tags
 - A footer
 - Show '...' if the title is too long
+
+![Example](https://github.com/SirMegaMU/sim-css/assets/img/example.png)
