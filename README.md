@@ -1,4 +1,4 @@
-# sim-css
+# sim-css ![jekyll](https://img.shields.io/badge/Jekyll-4.2-orange?logo=jekyll)
 
 A Jekyll Theme base on no-style-please
 
