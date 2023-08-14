@@ -25,6 +25,12 @@ showCategory: true
 sass:
   style: compressed
 
+comment:
+    gittalk:
+      clientId: 'c8a09d2aff45e43ec434'
+      clientSecret: '6d0ef216e25180f92296c429ff96ce7e49390705'
+      repo: 'sim-css'
+      username: 'sirmegamu'
 
 plugins:
   - jekyll-feed

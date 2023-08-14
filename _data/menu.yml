@@ -14,12 +14,12 @@ entries:
       show_more_text: See All Posts...
       show_more_url: collect
 
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: archive
+  # - title: posts by category
+    # post_list:
+      # category: example2
+      # show_more: true
+      # show_more_text: See more posts...
+      # show_more_url: archive
 
   - title: all tags
     url: alltags
